@@ -27,12 +27,12 @@ Como he dicho antes, somos un par de frikis, apasionados de los cómics y la tec
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="text-align: center;">
     <h4>Manuel Alambra</h4>
-    <img src="{{ '/images/manu.jpg' | absolute_url }}" alt="imagen" class="align-center" width="200" height="200" style="margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/manu.jpg" alt="imagen" class="align-center" width="200" height="200" style="margin-bottom: 10px;">
     <p>Lector, coleccionista y friki enfermizo de los cómics, culpable de crear una necesidad innecesaria, tiendo a llevar al extremo los hobbies... Papá de la api</p>
   </div>
   <div style="text-align: center;">
     <h4>Hans Pereira</h4>
-    <img src="{{ '/images/hans.jpg' | absolute_url }}" alt="imagen" class="align-center" width="200" height="200" style="margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/images/hans.jpg" alt="imagen" class="align-center" width="200" height="200" style="margin-bottom: 10px;">
     <p>Lector y amante de los cómics, culpable de entusiasmarse con un proyecto tan de nicho y subirlo de nivel... Papá del frontal</p>
   </div>
 </div>
