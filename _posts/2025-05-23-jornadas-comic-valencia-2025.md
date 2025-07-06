@@ -65,8 +65,6 @@ Aquí solo cabe un **¡sí rotundo!** Es un evento de puro cómic, así que si b
 - **Precio de entrada:** Gratuito  
 - **Web oficial:** [https://asovalcom.blogspot.com/](https://asovalcom.blogspot.com/)
 
-![Otra imagen opcional](url-de-la-imagen2.jpg)
-
 [jekyll-docs]: https://jekyllrb.com/docs/home  
 [jekyll-gh]:   https://github.com/jekyll/jekyll  
 [jekyll-talk]: https://talk.jekyllrb.com/
