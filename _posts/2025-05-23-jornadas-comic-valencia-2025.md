@@ -1,92 +1,72 @@
 ---
 layout: post
-title:  "Jornadas del comic de Valencia 2025"
+title:  "Jornadas del Cómic de Valencia 2025"
 date:   2025-05-23 01:01:00 +0300
 image:  jornadasvalencia2025.jpeg
-tags:   Salon
+tags:   Salón
 ---
-En Mayo han sido las jornadas del cómic de Valencia, cita obligada para mi, tanto por ser de la ciudad, como por ser socio de la asociacion de cómic de Valencia que es la organizadora del evento.
 
-# 🎉 [Jornadas del cómic de Valencia] – [Valencia] ([23-05-2025])
+En mayo se celebraron las Jornadas del Cómic de Valencia, una cita obligada para mí, tanto por ser de la ciudad como por ser socio de la Asociación de Cómic de Valencia, que es la organizadora del evento.
 
 <div style="display: flex; justify-content: space-between;">
   <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_1.jpeg" alt="Jornadas Cómic Valencia 2025 1" style="width: 32%; margin-right: 1%;">
   <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_2.jpeg" alt="Jornadas Cómic Valencia 2025 2" style="width: 32%; margin-right: 1%;">
   <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_3.jpeg" alt="Jornadas Cómic Valencia 2025 3" style="width: 32%;">
 </div>
-
-## 🧾 Introducción
-
-En Mayo han sido las jornadas del cómic de Valencia, cita obligada para mi, tanto por ser de la ciudad, como por ser socio de la asociacion de cómic de Valencia que es la organizado
 
 ## 🎭 Descripción general
 
-Se trata de un evento gratuito, orientado al cómic, en el que podras encontrar, desde **oferta de librerias y editoriales**, un **artist alley** bien ubicado, multitud de **charlas con autores** y **sesiones de firmas**, **talleres**, **exposiciones** y **actividades infantiles**.
+Se trata de un evento gratuito, orientado al cómic, en el que podrás encontrar desde **oferta de librerías y editoriales**, un **artist alley** bien ubicado, multitud de **charlas con autores** y **sesiones de firmas**, así como **talleres**, **exposiciones** y **actividades infantiles**.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_1.jpeg" alt="Jornadas Cómic Valencia 2025 1" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_2.jpeg" alt="Jornadas Cómic Valencia 2025 2" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_3.jpeg" alt="Jornadas Cómic Valencia 2025 3" style="width: 32%;">
+  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_4.jpeg" alt="Jornadas Cómic Valencia 2025 4" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_5.jpeg" alt="Jornadas Cómic Valencia 2025 5" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/jornadas_valencia_2025_6.jpeg" alt="Jornadas Cómic Valencia 2025 6" style="width: 32%;">
 </div>
 
-## 🔄 Evolución con años anteriores
+## 🔄 Evolución respecto a años anteriores
 
-[¿Qué ha cambiado o mejorado respecto a ediciones anteriores? Tamaño, invitados, ubicación, etc.]
+Este año la ubicación ha seguido siendo la misma que en años anteriores, en pleno centro de Valencia, en el **Centro Cultural La Nau**, lo cual tiene su lado bueno y malo:
+- El transporte público llega prácticamente al lado, con multitud de autobuses.
+- La oferta gastronómica es muy amplia, ya que estás en pleno centro.
+- Es complicado llegar con vehículo propio.
+
+La oferta en cuanto a charlas, actividades y firmas ha crecido respecto al año anterior, lo cual indica que el evento aún tiene margen de mejora.
+
+Sin embargo, la afluencia de público ha sido menor que otros años, sobre lo cual he estado reflexionando...
 
 ## 📅 Programación destacada
 
-- [Nombre de actividad o charla destacada] – [día y hora]
-- [Nombre de invitado especial]
-- [Talleres, concursos, zonas especiales]
+- Algunas charlas a las que pude asistir fueron las presentaciones de *Días sin escuela*, *Encuentros con varios autores*, y la presentación de *Onoda*...
+- Han asistido autores muy relevantes, de la talla de Paco Roca, Rafa Sandoval, Jordi Tarragona, Sergio Dávila, Sento Llobell, David Aja, Enma Ríos, Laura Pérez, entre otros.
+- En lo referente a talleres, asistí con la peque al cuentacuentos *Historias de Tubabú*, y fue divertidísimo.
 
 ## ✅ Puntos fuertes
 
-- [Primer punto fuerte]
-- [Segundo punto fuerte]
-- [Tercero...]
+- Es un evento no masificado, por lo que asistir a charlas y firmas es sencillo.
+- Al ser un evento gratuito, puedes visitarlo libremente, entrando y saliendo cuando quieras.
+- El evento es *fullComic* y no tanto merchandising y demás, que aunque traen público, diluyen un poco el ambiente comiquero que sí se respira en estas jornadas.
 
 ## ⚠️ Puntos de mejora
 
-- [Cosas a mejorar con un enfoque constructivo.]
+- Creo que el trabajo de difusión aún puede mejorar.
+- Considero que la oferta podría ampliarse, pero sería necesaria colaboración pública o una mayor financiación.
 
 ## 🏁 ¿Vale la pena asistir?
 
-[Valoración personal o grupal. ¿Para quién es recomendable? ¿Repetirías?]
+Aquí solo cabe un **¡sí rotundo!** Es un evento de puro cómic, así que si buscas eso, eres un apasionado, un coleccionista o ambas cosas, es un evento que **no te debes perder**.
 
 ---
 
 ### 📌 Ficha rápida
 
-- **Ubicación:** [Ciudad, recinto]
-- **Fechas:** [Día(s) del evento]
-- **Precio entrada:** [Precio general / por día]
-- **Web oficial:** [URL]
+- **Ubicación:** Valencia, Centro Cultural La Nau  
+- **Fechas:** Tercer fin de semana de mayo  
+- **Precio de entrada:** Gratuito  
+- **Web oficial:** [https://asovalcom.blogspot.com/](https://asovalcom.blogspot.com/)
 
 ![Otra imagen opcional](url-de-la-imagen2.jpg)
 
-
-
-
-
-En noviembre, tuvo lugar el **Splash Sagunto**, uno de los que, para mí, son los 3 eventos que no quiero perderme cada año en Valencia. Este ya es un salón mediano, al que he podido asistir en las dos últimas ediciones y veo que va creciendo en cada una.
-
-La ubicación ha cambiado con respecto a la de 2023... Creo que ha ganado bastante. El recinto es muy amplio, con todo bastante bien ubicado. Las editoriales y librerías creo que tenían espacio suficiente, aunque intentaré consultarlo este 2025 y sondear opiniones.
-
-Las charlas se daban en la última planta, en un espacio habilitado a tal efecto, pero sin ser una sala cerrada, lo cual no limitaba tanto el aforo, y al no haber nada cercano, la acústica era bastante aceptable, sin el *agobio* de estar en un espacio cerrado.
-
-El ambiente no es nada masificado, fomentando la cercanía con la gente que vas conociendo y los autores... ¡Sin colas ni agobios!
-
-Otro punto a favor, como en Zaragoza, es que cierra a mediodía, fomentando que la gente pueda y deba salir a comer y tomar el aire. Está lleno de locales para comer o tomar algo justo enfrente.
-
-Algunos de los momentos que recuerdo del salón son las breves charlas con los autores, como estos tres momentazos...
-<div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/splash2024_1.jpeg" alt="Splash 2024 Image 1" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/splash2024_2.jpeg" alt="Splash 2024 Image 2" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/splash2024_3.jpeg" alt="Splash 2024 Image 3" style="width: 32%;">
-</div>
-
-Ya esperando con ganas el **Splash 2025!!**
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-docs]: https://jekyllrb.com/docs/home  
+[jekyll-gh]:   https://github.com/jekyll/jekyll  
 [jekyll-talk]: https://talk.jekyllrb.com/

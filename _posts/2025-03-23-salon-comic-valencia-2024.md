@@ -3,7 +3,7 @@ layout: post
 title:  "Salon Cómic de Valencia 2024"
 date:   2025-03-23 01:01:00 +0300
 image:  salon_valencia_2024_logo.jpg
-tags:   Salon
+tags:   Salón
 ---
 
 En marzo, además de la fiesta grande de Valencia, tiene lugar la fiesta grande del cómic en Valencia: el Salón del Cómic, que, por supuesto, es una cita obligada.

@@ -3,7 +3,7 @@ layout: post
 title:  "Splash Sagunto 2024"
 date:   2025-03-24 01:01:00 +0300
 image:  splash2024.jpeg
-tags:   Salon
+tags:   Salón
 ---
 En noviembre, tuvo lugar el **Splash Sagunto**, uno de los que, para mí, son los 3 eventos que no quiero perderme cada año en Valencia. Este ya es un salón mediano, al que he podido asistir en las dos últimas ediciones y veo que va creciendo en cada una.
 
