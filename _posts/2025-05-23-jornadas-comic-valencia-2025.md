@@ -2,7 +2,7 @@
 layout: post
 title:  "Jornadas del Cómic de Valencia 2025"
 date:   2025-05-23 01:01:00 +0300
-image:  jornadas_valencia_2025_7.jpeg
+image:  splash2024.jpeg
 tags:   Salón
 ---
 
