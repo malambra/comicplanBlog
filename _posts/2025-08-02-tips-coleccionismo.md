@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips sobre coleccionismo de cómics"
 date:   2025-08-02 01:01:00 +0300
-image:  portadas.wepp
+image:  portadas.webp
 tags:   Salón
 ---
 
@@ -158,7 +158,7 @@ En lo que respecta a las bolsas, siempre uso bolsas para comic **libres de ácid
 <div style="display: flex; justify-content: space-between;">
   <img src="{{ site.baseurl }}/images/bolsas.jpeg" alt="Bolsas" style="width: 32%; margin-right: 1%;">
   <img src="{{ site.baseurl }}/images/backingboards.jpg" alt="Backing" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/bolsas2.jpeg" alt="Bolsas" style="width: 32%;">
+  <img src="{{ site.baseurl }}/images/bolsas2.jpg" alt="Bolsas" style="width: 32%;">
 </div>
 
 - **Golden 197 X 268:** Adecuada para Cartonés de hasta 250 páginas aprox.
