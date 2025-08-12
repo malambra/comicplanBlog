@@ -34,13 +34,13 @@ Existen múltiples formatos y tamaños... y no tengo la intención de citarlos t
 - **Grapa o Comic Book:** Formato estándar de comic americano, entre 24 y 32 páginas y entre 17cm x 26cm, en tapa blanda con las hojas grapadas, su publicación suele ser mensual.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/grapas.jpeg" alt="Formatos de grapas" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/grapas.jpeg" alt="Formatos de grapas" style="width: 30%;">
 </div>
 
 - **Rústica:** Compendio de varios números, entre 5 y 10 es lo habitual. Portada y contraportada en cartón de bajo gramaje, también llamados tapa blanda o TPB (Trade Paperback)
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/rustica.jpeg" alt="Formatos de rústicas" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/rustica.jpeg" alt="Formatos de rústicas" style="width: 30%;">
 </div>
 
 - **Rústica con solapas:** Es una rústica en la que la portada y contraportada tienen un sobrante doblado hacia dentro que les otorga mayor consistencia.
