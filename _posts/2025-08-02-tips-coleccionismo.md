@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips sobre coleccionismo de cómics"
 date:   2025-08-02 01:01:00 +0300
-image:  jornadas_valencia_2025_7.jpeg
+image:  portadas.wepp
 tags:   Salón
 ---
 
@@ -31,10 +31,6 @@ Si bien cuando estamos empezamos en este hobby, no es demasiado importante el te
 
 Existen múltiples formatos y tamaños... y no tengo la intención de citarlos todos así que agruparé algunos.
 
-<div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/formatos_comic.jpeg" alt="Formatos de cómics" style="width: 50%;">
-</div>
-
 - **Grapa o Comic Book:** Formato estándar de comic americano, entre 24 y 32 páginas y entre 17cm x 26cm, en tapa blanda con las hojas grapadas, su publicación suele ser mensual.
 
 <div style="text-align: center;">
@@ -50,37 +46,37 @@ Existen múltiples formatos y tamaños... y no tengo la intención de citarlos t
 - **Rústica con solapas:** Es una rústica en la que la portada y contraportada tienen un sobrante doblado hacia dentro que les otorga mayor consistencia.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/rustica_solapas.jpeg" alt="Formatos de rústicas con solapas" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/rustica_solapas.jpeg" alt="Formatos de rústicas con solapas" style="width: 30%;">
 </div>
 
 - **Cartone:** También llamados tapa dura o Hardcover. Tapas en cartón de alto gramaje para darles consistencia. Suelen contener arcos completos o historias auto conclusivas.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/cartone.jpeg" alt="Formatos de cartoné" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/cartone.jpeg" alt="Formatos de cartoné" style="width: 30%;">
 </div>
 
 - **Omnibus:** Tapas duras muchas veces de un tamaño oversized. No hay límite de páginas, los hay de más de 1000, aunque no son cómodos de leer 
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/omnibus.jpeg" alt="Formatos de Omnibus" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/omnibus.jpeg" alt="Formatos de Omnibus" style="width: 30%;">
 </div>
 
 - **Absolute:** Tomos de mayor tamaño, normalmente de obras seleccionadas para realzar el arte del dibujante.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/absolute.jpeg" alt="Formatos de absolute" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/absolute.jpeg" alt="Formatos de absolute" style="width: 30%;">
 </div>
 
 - **Album europeo:** Formato normal de comic franco belga, Bande Desinée o BD. Entre 40 y 60 páginas y entre 30cm x 23cm.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/europeo.jpeg" alt="Formatos de Europeo" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/europeo.jpeg" alt="Formatos de Europeo" style="width: 30%;">
 </div>
 
 - **Manga (Kanzenban, Takobon, etc):** Formatos habituales de comic Japones. Tienen múltiples tamaños y pueden tener orientación de lectura occidental o no.
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/manga.jpeg" alt="Formatos de manga" style="width: 50%;">
+  <img src="{{ site.baseurl }}/images/manga.jpeg" alt="Formatos de manga" style="width: 30%;">
 </div>
 
 Repito hay muchos más sobre todo "subtipos", pero con esto te puedes hacer una idea general. Si lees o escuchas algún otro... busca a que se refieren.
@@ -119,8 +115,8 @@ En la medida de lo posible deberás evitar todos estos factores usando el sentid
 ### 2.1.- Estanterías<a name="id6"></a>
 
 Sobre estanterías solo puedo hablarte de las dos que he usado... ambas de Ikea.
-- Kallax: Son bastante estéticas, aunque desaprovechan espacio de nuestras colecciones al no poder ajustar la altura entre los estantes.
-- Billy: Creo que son la mejor opción calidad precio, pero añadiría un par de consejos...
+- **Kallax:** Son bastante estéticas, aunque desaprovechan espacio de nuestras colecciones al no poder ajustar la altura entre los estantes.
+- **Billy:** Creo que son la mejor opción calidad precio, pero añadiría un par de consejos...
     - Usa el ancho de 40 cm en lugar del de 80 cm, aunque pierdas algo de espacio (2cm) al apilarlas, ya que las de 80cm cuando les metes peso se arquean.
     - Te recomiendo poner puertas de cristal, ya que no pierdes la estética de mostrar la colección y evitas muchísimo polvo en tu colección.
 
@@ -137,11 +133,11 @@ Cuando tienes grapas, una buena idea es usar cajas para almacenarlas. También h
 Existen cajas de distintos tamaños y materiales, yo he podido probar estos y estoy muy contento...
 
 - **Materiales:** 
-    - Cartón: Son las más ligeras, las más económicas (6..10€) pero también las menos resistentes y duraderas. Según el tipo de cartón pueden apilarse hasta 4 cajas aprox y según lo que las muevas pueden durar más o menos. Con un uso normal en casa supongo que puedes sacarles perfectamente de 2 a 4 años
+    - **Cartón:** Son las más ligeras, las más económicas (6..10€) pero también las menos resistentes y duraderas. Según el tipo de cartón pueden apilarse hasta 4 cajas aprox y según lo que las muevas pueden durar más o menos. Con un uso normal en casa supongo que puedes sacarles perfectamente de 2 a 4 años
 
-    - MDF: Son las más resistentes sin duda, pero también las más pesadas, algo que debe tener en cuenta según donde quieras colocarlas. He querido comprar alguna más y ya no las encuentro la verdad, pero cuando las compre su precio estaba sobre los 20 o 25€
+    - **MDF:** Son las más resistentes sin duda, pero también las más pesadas, algo que debe tener en cuenta según donde quieras colocarlas. He querido comprar alguna más y ya no las encuentro la verdad, pero cuando las compre su precio estaba sobre los 20 o 25€
 
-    - Plástico: Personalmente las veo caras ya que las encuentro en precios parecidos al MDF. Tengo una por capricho, pero no creo que adquiera más.
+    - **Plástico:** Personalmente las veo caras ya que las encuentro en precios parecidos al MDF. Tengo una por capricho, pero no creo que adquiera más.
 
 - **Tamaños:** 
 Los tamaños que uso para grapa son de 30cm(Alto), 30 o 40cm(largo), aunque hay también de 60 y 20cm (ancho)
@@ -153,11 +149,17 @@ También hay cajas, más de exposición de media altura donde los comics quedan 
 
 Tanto las temperaturas elevadas como los cambios en la humedad ambiental afectan al papel, por lo que se debe intentar controlar esto. Yo en Valencia zona con una humedad muy alta, intento controlarlo con las estanterías con puerta, enfundando lo posible y manteniendo las ventanas cerradas, pero es cierto que no dispongo de deshumidificadores ni nada similar.
 
-### 2.4.- Bolsas y fundas<a name="id9"></a>
+### 2.4.- Fundas, Bolsas y Backing Boards<a name="id9"></a>
 
 Sobre este punto diré que tengo embolsadas todas mis grapas y TPB, pero no los cartonés.
 
 En lo que respecta a las bolsas, siempre uso bolsas para comic **libres de ácido**, para que no acaben amarilleando el material. Existen de distintos tamaños, según el tipo de material que necesites proteger, estos son algunos:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="{{ site.baseurl }}/images/bolsas.jpeg" alt="Bolsas" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/backingboards.jpg" alt="Backing" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/bolsas2.jpeg" alt="Bolsas" style="width: 32%;">
+</div>
 
 - **Golden 197 X 268:** Adecuada para Cartonés de hasta 250 páginas aprox.
 - **Regular 184 X 268:** Adecuada para los TPB's
