@@ -141,12 +141,8 @@ Existen cajas de distintos tamaños y materiales, yo he podido probar estos y es
 
 <div style="display: flex; justify-content: space-between;">
   <img src="{{ site.baseurl }}/images/caja1.jpeg" alt="Caja 1" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/caja2.jpeg" alt="Caja 2" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/caja5.jpeg" alt="Caja 5" style="width: 32%; margin-right: 1%;">
   <img src="{{ site.baseurl }}/images/caja3.jpeg" alt="Caja 3" style="width: 32%;">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/caja4.jpeg" alt="Caja 4" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/caja5.jpeg" alt="Caja 5" style="width: 32%;">
 </div>
 
 - **Tamaños:** 
