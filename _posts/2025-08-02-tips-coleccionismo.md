@@ -139,6 +139,16 @@ Existen cajas de distintos tamaños y materiales, yo he podido probar estos y es
 
     - **Plástico:** Personalmente las veo caras ya que las encuentro en precios parecidos al MDF. Tengo una por capricho, pero no creo que adquiera más.
 
+<div style="display: flex; justify-content: space-between;">
+  <img src="{{ site.baseurl }}/images/caja1.jpeg" alt="Caja 1" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/caja2.jpeg" alt="Caja 2" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/caja3.jpeg" alt="Caja 3" style="width: 32%;">
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="{{ site.baseurl }}/images/caja4.jpeg" alt="Caja 4" style="width: 32%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/caja5.jpeg" alt="Caja 5" style="width: 32%;">
+</div>
+
 - **Tamaños:** 
 Los tamaños que uso para grapa son de 30cm(Alto), 30 o 40cm(largo), aunque hay también de 60 y 20cm (ancho)
 Tengo unas específicas para Billy hechas en MDF con 31cm(alto) 25cm(largo) 36cm(ancho), pero donde las adquiría cerró.
@@ -175,9 +185,41 @@ Y para acabar, sobre el tema de los backing boards..
 - Los uso para tomas las grapas, ya que les da la consistencia que no tienen.
 - Tienen solo uno de los lados libre de ácido, por lo que si embolsas las grapas de dos en dos con un solo backing board ara ahorrar espacio, habrá una de las grapas sin esa protección.
 
-### 2.5.- Otros...<a name="id10"></a>
+### 2.5.- Enalaces de interes...<a name="id10"></a>
+
+**Tiendas físicas cómic**
+
+- https://futuramacomics.es/
+- https://www.facebook.com/gothamcomicsvlc/
+
+
+**Tiendas online cómic en español**
+
+- https://tienda.tomosygrapas.com/
+
+**Tiendas online cómic USA**
+
+- https://www.radarcomics.com/es/index.php
+
+**Consultas sobre cómic USA o graded**
+
+- https://www.previewsworld.com/
+- https://gocollect.com/
+- https://www.cgccomics.com/
+- https://www.cbcscomics.com/
+
+### 2.6.- Otros...<a name="id11"></a>
 
 Algunos tips adicionales que no se dónde poner...
+
+A título personal... resumiria en recuerda que es un hobby.
+
+- No te agobies¡¡¡ no puedes tenerlo o leerlo todo y esta bien que sea así. Parte de la gracia es el proceso de buscar cosas.
+- Si no consigues algo, no pagues locuras... se reeditara o encontraras una "ganga" simplemente date tiempo.
+- No pasa nada si la pila de pendientes crece... se pueden comprar comics que no son leidos ahora, simplemente porque aún no es el momento.
+
+Sobre la colección...
+
 - No tengas los comics demasiado ajustados o presionados, ni en las estanterías, ni en las cajas y tampoco en las bolsas, o acabaran deformándose.
 - No apiles las grapas en horizontal o también acabaran deformándose.
 - No comas ni bebas mientras tocas tus cómics y si puede ser, ten las manos limpias.
