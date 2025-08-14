@@ -3,7 +3,7 @@ layout: post
 title:  "Tips sobre coleccionismo de cómics"
 date:   2025-08-02 01:01:00 +0300
 image:  portadas.webp
-tags:   Salón
+tags:   Coleccionismo
 ---
 
 En este post voy a intentar volcar todos los enlaces y tips que he ido descubriendo durante estos años, para... primero que me sirva como índice de consulta continua y segundo, intentar hacer la vida de nuevos coleccionistas, algo más sencilla.
