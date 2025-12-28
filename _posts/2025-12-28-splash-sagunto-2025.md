@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Splash Sagunto 2025"
-date:   2025-05-23 01:01:00 +0300
+date:   2025-11-28 01:01:00 +0300
 image:  splash2025_10.jpg
 tags:   Salón
 ---
