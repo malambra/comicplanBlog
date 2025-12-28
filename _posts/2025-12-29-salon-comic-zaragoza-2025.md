@@ -2,7 +2,7 @@
 layout: post
 title: "Salón del Cómic de Zaragoza 2025"
 date: 2025-12-12 01:01:00 +0300
-image: jornadas_valencia_2025_7.jpeg
+image: zaragoza_2025_8.png
 tags: Salón
 ---
 
