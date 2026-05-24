@@ -63,8 +63,8 @@ En líneas generales, el salón combina una gran variedad de propuestas que atra
   - Me gusta, frente a otros salones, que las zonas de las charlas estén integradas en el espacio, en escenarios, en lugar de tener que ir a salas separadas, y la acústica permite escuchar sin demasiados problemas, lo que fomenta oyentes esporádicos que simplemente pasan cerca.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/salon_barcelona_2026_10.jpeg" alt="Salón Barcelona 2026 10" style="width: 32%; margin-right: 1%;">
-  <img src="{{ site.baseurl }}/images/salon_barcelona_2026_11.jpeg" alt="Salón Barcelona 2026 11" style="width: 32%;">
+  <img src="{{ site.baseurl }}/images/salon_barcelona_2026_10.jpeg" alt="Salón Barcelona 2026 10" style="width: 49%; margin-right: 1%;">
+  <img src="{{ site.baseurl }}/images/salon_barcelona_2026_11.jpeg" alt="Salón Barcelona 2026 11" style="width: 49%;">
 </div>
 
 ## ✅ Puntos fuertes
