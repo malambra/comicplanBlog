@@ -21,7 +21,7 @@ Así que he decidido comparar tres de las opciones más populares entre coleccio
 - Sakura Pen-Touch (oil)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/1_rotus_general.jpeg" alt="Rotuladores" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/1_rotus_general.jpeg" alt="Rotuladores" style="width: 32%;">
 </div>
 
 Las pruebas se han realizado utilizando distintos tipos de papel, cubiertas oscuras, superficies brillantes y contrastes contra cómics reales.
@@ -37,7 +37,7 @@ Las pruebas se han realizado utilizando distintos tipos de papel, cubiertas oscu
     - 2.2. [Covers glossy](#id7)
     - 2.3. [Covers foil](#id8)
 
-- 3. [Pruebas] (#id9)
+- 3. [Pruebas](#id9)
     - 3.1. [Tiempos de secado](#id10)
     - 3.2. [Firma sobre Cover normal clara](#id11)
     - 3.3. [Firma sobre Cover normal oscura](#id12)
@@ -46,10 +46,10 @@ Las pruebas se han realizado utilizando distintos tipos de papel, cubiertas oscu
     - 3.6. [Firma sobre Cover foil clara](#id15)
     - 3.7. [Firma sobre Cover foil oscura](#id16)
 
-- 4. [Conclusiones](#17)
-    - 4.1. [Tabla resumen](#18)
-    - 4.2. [Conclusiones](#19)
-    - 4.2. [Resumen final](#20)
+- 4. [Conclusiones](#id17)
+    - 4.1. [Tabla resumen](#id18)
+    - 4.2. [Conclusiones](#id19)
+    - 4.2. [Resumen final](#id20)
 
 ## 1.- Tipos de rotuladores.<a name="id1"></a>
 
@@ -62,7 +62,7 @@ Podríamos catalogarlos en 3 tipologías... con Base de Alcohol, Acrílicos y co
 Los más versátiles y por lo tanto diría que los más utilizados en los eventos.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_sharpie.jpeg" alt="Rotuladores sharpie" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_sharpie.jpeg" alt="Rotuladores sharpie" style="width: 32%;">
 </div>
 
 - **Rotuladores permanentes base alcohol**
@@ -79,7 +79,7 @@ Los más versátiles y por lo tanto diría que los más utilizados en los evento
 Bastante extendidos para obtener un buen contraste, con pintura acrílica.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_molotow.jpeg" alt="Rotuladores molotow" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_molotow.jpeg" alt="Rotuladores molotow" style="width: 32%;">
 </div>
 
 - **Paint markers acrílicos**
@@ -95,7 +95,7 @@ Bastante extendidos para obtener un buen contraste, con pintura acrílica.
 Algo más caros, muy recomendados en portadas complicadas.
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_sakura.jpeg" alt="Rotuladores sakura" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_sakura.jpeg" alt="Rotuladores sakura" style="width: 32%;">
 </div>
 
 - **Paint markers aceite**
@@ -116,7 +116,7 @@ Las portadas también podríamos dividirlas en varios tipos, sobre las que los d
 ### 2.1.- Covers normales<a name="id6"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_offset.jpeg" alt="Cover Offset" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_offset.jpeg" alt="Cover Offset" style="width: 32%;">
 </div>
 
 Este tipo de cover son unas de las más habituales, con una base de papel offset (poroso), lo cual hace que absorban más tinta pudiendo llegar a traspasar el papel si nos excedemos.
@@ -129,7 +129,7 @@ En lo referente a esta superficie, podríamos evaluar estas características:
 ### 2.2.- Covers glossy<a name="id7"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_glossy.jpeg" alt="Cover Glossy" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_glossy.jpeg" alt="Cover Glossy" style="width: 32%;">
 </div>
 
 Estas portadas siguen siendo bastante frecuentes, sobre todo en comics modernos. Tienen cierto brillo al usar papel satinado pero siguen sin presentar problemas para practicamente cualquiera de los rotuladores.
@@ -137,7 +137,7 @@ Estas portadas siguen siendo bastante frecuentes, sobre todo en comics modernos.
 ### 2.3.- Covers foil<a name="id8"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/0_rotus_foil.jpeg" alt="Cover Foil" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/0_rotus_foil.jpeg" alt="Cover Foil" style="width: 32%;">
 </div>
 
 Estas portadas son bastante más raras y tienen cierta dificultad en lo que a adherencia y contraste se refiere.
@@ -166,7 +166,7 @@ Para evaluar un secado correcto, se ha desplazado la tinta con el dedo, hasta qu
 ### 3.2.- Firma sobre Cover normal clara<a name="id11"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/cartulina_claro_rotus_general.jpeg" alt="Offset claro" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/cartulina_claro_rotus_general.jpeg" alt="Offset claro" style="width: 32%;">
 </div>
 
 **Observaciones:** 
@@ -177,7 +177,7 @@ Para evaluar un secado correcto, se ha desplazado la tinta con el dedo, hasta qu
 ### 3.3.- Firma sobre Cover normal oscura<a name="id12"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/cartulina_oscuro_rotus_general.jpeg" alt="Offset oscuro" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/cartulina_oscuro_rotus_general.jpeg" alt="Offset oscuro" style="width: 32%;">
 </div>
 
 - Sharpie: Trazo fino, mala opacidad, *salvo los metalizados* y de secado muy rápido.
@@ -201,7 +201,7 @@ Para evaluar un secado correcto, se ha desplazado la tinta con el dedo, hasta qu
 ### 3.5.- Firma sobre Cover glossy oscura<a name="id14"></a>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="{{ site.baseurl }}/images/acetato_oscura.jpeg" alt="Glossy oscuro" style="width: 98%;">
+  <img src="{{ site.baseurl }}/images/acetato_oscura.jpeg" alt="Glossy oscuro" style="width: 32%;">
 </div>
 
 **Observaciones:** 
