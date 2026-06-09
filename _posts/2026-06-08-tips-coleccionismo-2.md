@@ -237,11 +237,11 @@ Para evaluar un secado correcto, se ha desplazado la tinta con el dedo, hasta qu
 - Molotow: Trazo *irregular*, con una opacidad muy alta. Secado muy lento.
 - Sakura: Trazo fino, uniforme y con una opacidad muy alta. Secado lento.
 
-## 3.- Conclusiones finales. <a name="id17"></a>
+## 4.- Conclusiones finales. <a name="id17"></a>
 
 Lo primero que diré es que cada cual colecciona lo y como le apetece. Esto no es un intento de encapsular a los coleccionistas ni mucho menos, es más un intento de ordenar lo poco que he podido conocer.
 
-### 3.1.- Tabla resumen<a name="id18"></a>
+### 4.1.- Tabla resumen<a name="id18"></a>
 
 Como resumen podríamos definir la siguiente tabla:
 
@@ -259,7 +259,7 @@ Como resumen podríamos definir la siguiente tabla:
 | Control artístico (línea limpia) | ⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ |
 | Olor / comodidad en eventos | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
 
-### 3.2.- Conclusiones<a name="id19"></a>
+### 4.2.- Conclusiones<a name="id19"></a>
 
 Como conclusión final podríamos decir que como rotuladores de de **uso habitual** estarían los **Sharpies**, teniendo presente que no están recomendados sobre portadas oscuras a menos que sean los Metalic Gold o Silver.
 Si queremos algo que sirva sobre cualquier superficie y no tenemos problemas con esperar algo más para el secado... la mejor opción es **Sakura Pen-Touch** y dejando de lado las Foil, **Molotow** es una opción muy buena también.
@@ -271,7 +271,9 @@ Por todo esto, si has de comprar rotuladores, esto podría ser un set completo:
   - Metálicos Silver y Gold
   - Vivos *un par*, Verde y Amarillo
 
-### 3.3.- Resumen final<a name="id20"></a>
+Para terminar, **si solo pudiera llevar un par de rotuladores serían Sakura**, y puestos a elegir **Negro y Blanco o bien Negro y Gold**
+
+### 4.3.- Resumen final<a name="id20"></a>
 
 **Mejor para cómic (impacto visual)**
 
